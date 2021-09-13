@@ -1,0 +1,4 @@
+{
+    "php.validate.enable": false,
+    "php.validate.executablePath": "C:/Bitnami/wampstack-7.4.19-0/php/php.exe",
+}
